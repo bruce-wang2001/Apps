@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bruce/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/bruce/AndroidStudioProjects/CameraGmail/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ea4ab6cf28559b4b60b18f06fc4921255967997b.jar" />
+    </item>
+    <item
+        jar="/home/bruce/AndroidStudioProjects/CameraGmail/app/libs/mail.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/bruce/AndroidStudioProjects/CameraGmail/app/build/intermediates/pre-dexed/debug/mail-db13a2d98c067fb6656e3dbe1d7c8249e87a763e.jar" />
+    </item>
+    <item
+        jar="/home/bruce/AndroidStudioProjects/CameraGmail/app/libs/activation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/bruce/AndroidStudioProjects/CameraGmail/app/build/intermediates/pre-dexed/debug/activation-1edac26a61a0bda8f6c1f9a251004c7d6cf65806.jar" />
+    </item>
+    <item
+        jar="/home/bruce/AndroidStudioProjects/CameraGmail/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/bruce/AndroidStudioProjects/CameraGmail/app/build/intermediates/pre-dexed/debug/additionnal-f7ca7dbbfcb604ee2dd3da9786208533319dd5fa.jar" />
+    </item>
+
+</items>
